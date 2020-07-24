@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../sass/utils/anim.scss"
+    ],
+    "names": [],
+    "file": "anim.css"
+}
